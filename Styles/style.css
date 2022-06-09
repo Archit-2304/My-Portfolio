@@ -3,7 +3,7 @@ body{
 }
 
 .home{
-    height: 100vh;
+    height: 102.75vh;
     background: linear-gradient(
         rgba(0,0,0,0.8), 
         rgba(0,0,0,0.2)),
@@ -13,9 +13,9 @@ body{
 
 .intro{
     color: whitesmoke;
-    padding: 10% 20%;
+    padding: 5% 18%;
     text-align: justify;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 200;
 }
 
